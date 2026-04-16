@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Sirvenis.github.io/ai-frontier/sitemap.xml
+
+# Allow all search engines to crawl the site
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
